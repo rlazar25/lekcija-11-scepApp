@@ -1,7 +1,6 @@
-const index = (req, res) =>{
-    res.send('Hello World');
+const index = (req, res) => {
+    res.render('index', {title : 'Home'});
 };
-
 module.exports ={
     index
 };
