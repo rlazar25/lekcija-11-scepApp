@@ -1,3 +1,6 @@
 body{
     background: #f8f8f8;
 }
+.active{
+    background: linear-gradient(90deg, red, transparent);
+}
