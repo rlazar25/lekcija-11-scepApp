@@ -4,3 +4,7 @@ body{
 .active{
     background: linear-gradient(90deg, red, transparent);
 }
+th,
+td{
+    text-align: center;
+}
